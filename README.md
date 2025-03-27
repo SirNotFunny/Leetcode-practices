@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1603-running-sum-of-1d-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
