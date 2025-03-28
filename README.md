@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
