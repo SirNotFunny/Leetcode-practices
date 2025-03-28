@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1791-richest-customer-wealth) |
+| [2551-apply-operations-to-an-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
