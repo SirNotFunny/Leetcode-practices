@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0120-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1013-fibonacci-number) |
