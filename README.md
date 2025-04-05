@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0383-ransom-note) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
