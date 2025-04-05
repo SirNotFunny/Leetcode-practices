@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
