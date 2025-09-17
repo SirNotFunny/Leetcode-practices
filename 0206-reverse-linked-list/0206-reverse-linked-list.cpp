@@ -19,7 +19,7 @@ public:
             curr->next = prev; //reverse the current node's next pointer 
             prev = curr; //move ptr to one position ahead
             curr = next;
-        }
+        } // prev - curr - next => swap ptr 
         return prev;
     }
 };
