@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
