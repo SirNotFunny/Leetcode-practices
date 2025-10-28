@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1603-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SirNotFunny/Leetcode-practices/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SirNotFunny/Leetcode-practices/tree/master/0234-palindrome-linked-list) |
